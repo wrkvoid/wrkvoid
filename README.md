@@ -1,7 +1,6 @@
 
 <h2 align="center">Full Stack Developer<br>JavaScript & Python</h2>
 
----
 
 ### 👨‍💻 About Me
 
