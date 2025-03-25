@@ -78,6 +78,6 @@ I enjoy building clean, scalable solutions and working across the entire web sta
 ### 📂 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=wrkvoid&theme=onedark](https://github-readme-streak-stats.herokuapp.com/?user=wrkvoid&theme=onedark)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrkvoid&theme=onedark" alt="GitHub Streak" />
 </p>
 
